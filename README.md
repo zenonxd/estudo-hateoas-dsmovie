@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Spring Essential - Dev Superior&message=Estudo Hateoas&color=8257E5&labelColor=000000" alt="estudo hateoas" />
+  <img src="https://img.shields.io/static/v1?label=Spring Essential - Dev Superior&message=Hateoas&color=8257E5&labelColor=000000" alt="estudo versionamento api" />
 </p>
 
 # Objetivo
